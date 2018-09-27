@@ -1,0 +1,53 @@
+commit f611d16b887e039779e4c2180c5009afe6142576
+Author: Jay Harrison <jharrison@mines.edu>
+Date:   Thu Sep 27 12:53:38 2018 -0600
+
+    Changed 'Meow' location
+
+commit 89116b099c5c7bc9a588bd5b966b90156184d646
+Author: Bao Nguyen <bqnguyen@mines.edu>
+Date:   Thu Sep 27 12:44:52 2018 -0600
+
+    EYE_WIDTH change to 20 from 10
+
+commit 939024ca19a8d09d28d8f3de45d1ed8ba5556755
+Author: Jay Harrison <jharrison@mines.edu>
+Date:   Thu Sep 27 12:41:13 2018 -0600
+
+    Increased frame size from (400,400) to (450,450)
+
+commit 9a3fda0eed38117991f4fcd0b9d4167af74486d3
+Author: Bao Nguyen <bqnguyen@mines.edu>
+Date:   Thu Sep 27 12:38:28 2018 -0600
+
+    change head color to yellow
+
+commit b98dd2213e985d48ffd9f71133332ed76fafd139
+Author: Jay Harrison <jharrison@mines.edu>
+Date:   Thu Sep 27 12:22:08 2018 -0600
+
+    Increased eye seperation, made head green, and made eyes blue
+
+commit 298c124348285702e21c6d476bc0cbafb6b97078
+Author: Bao Nguyen <bqnguyen@mines.edu>
+Date:   Thu Sep 27 12:16:58 2018 -0600
+
+    text changed to red, mouth height to 5, position to 200, 200
+
+commit b35ee958bc723791921837e3a4e1263d013d488c
+Author: Jay Harrison <jharrison@mines.edu>
+Date:   Thu Sep 27 11:45:27 2018 -0600
+
+    First push, adding Cat.java and MyDrawing.java
+
+commit 28ef248433a5c73d984efc344677556526d92fa6
+Author: jayaharrison <36429651+jayaharrison@users.noreply.github.com>
+Date:   Thu Sep 27 11:13:06 2018 -0600
+
+    Create .gitignore
+
+commit 401b4966e8beda9c42c1f3da995e8fed32ae164e
+Author: jayaharrison <36429651+jayaharrison@users.noreply.github.com>
+Date:   Thu Sep 27 11:03:06 2018 -0600
+
+    Initial commit
